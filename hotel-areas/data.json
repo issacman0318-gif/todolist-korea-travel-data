@@ -1,0 +1,47 @@
+[
+  {
+    "city": "首爾",
+    "area_or_station": "首爾站",
+    "verified_connection": "AREX 直達車與站站停",
+    "planning_use_case": "機場及長途鐵路銜接",
+    "check_before_booking": "分別查機場鐵路及長途鐵路的入口。",
+    "source_url": "https://english.visitseoul.net/airport-to-seoul",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "首爾",
+    "area_or_station": "弘大入口",
+    "verified_connection": "AREX 站站停",
+    "planning_use_case": "機場直達站區與弘大行程",
+    "check_before_booking": "找到住宿靠哪側出口，再核對行李動線。",
+    "source_url": "https://english.visitseoul.net/airport-to-seoul",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "首爾",
+    "area_or_station": "孔德",
+    "verified_connection": "AREX 站站停",
+    "planning_use_case": "機場與市區轉乘",
+    "check_before_booking": "入住前確認最近入口，並查市區目的地所需路線。",
+    "source_url": "https://english.visitseoul.net/airport-to-seoul",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "首爾",
+    "area_or_station": "明洞站",
+    "verified_connection": "首爾地鐵 4 號線",
+    "planning_use_case": "明洞步行區與市區行程",
+    "check_before_booking": "以酒店地址比對出口，機場鐵路方案另查首爾站轉乘。",
+    "source_url": "https://english.seoul.go.kr/wp-content/uploads/2026/03/2026_touristmap_EN.pdf",
+    "checked_on": "2026-11-19"
+  },
+  {
+    "city": "首爾",
+    "area_or_station": "東大門歷史文化公園站",
+    "verified_connection": "首爾地鐵 2／4／5 號線",
+    "planning_use_case": "DDP 周邊住宿",
+    "check_before_booking": "和東大門站分開查，避免用相似站名估計步行距離。",
+    "source_url": "https://english.seoul.go.kr/wp-content/uploads/2026/03/2026_touristmap_EN.pdf",
+    "checked_on": "2026-11-19"
+  }
+]

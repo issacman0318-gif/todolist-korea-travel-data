@@ -20,6 +20,8 @@
 
 執行 `python3 plan.py "直達車"`，或省略條件列出全部。工具使用 Python 3 標準函式庫。
 
+[開啟獨立住宿區位資料集](hotel-areas/README.md)，可下載 CSV／JSON 及查看逐列來源。
+
 ## 住宿與相關交通攻略
 
 - [首爾站周邊住宿區域](https://todolist-korea.com/seoul-station-hotels/)

@@ -1,0 +1,6 @@
+city,area_or_station,verified_connection,planning_use_case,check_before_booking,source_url,checked_on
+首爾,首爾站,AREX 直達車與站站停,機場及長途鐵路銜接,分別查機場鐵路及長途鐵路的入口。,https://english.visitseoul.net/airport-to-seoul,2026-11-19
+首爾,弘大入口,AREX 站站停,機場直達站區與弘大行程,找到住宿靠哪側出口，再核對行李動線。,https://english.visitseoul.net/airport-to-seoul,2026-11-19
+首爾,孔德,AREX 站站停,機場與市區轉乘,入住前確認最近入口，並查市區目的地所需路線。,https://english.visitseoul.net/airport-to-seoul,2026-11-19
+首爾,明洞站,首爾地鐵 4 號線,明洞步行區與市區行程,以酒店地址比對出口，機場鐵路方案另查首爾站轉乘。,https://english.seoul.go.kr/wp-content/uploads/2026/03/2026_touristmap_EN.pdf,2026-11-19
+首爾,東大門歷史文化公園站,首爾地鐵 2／4／5 號線,DDP 周邊住宿,和東大門站分開查，避免用相似站名估計步行距離。,https://english.seoul.go.kr/wp-content/uploads/2026/03/2026_touristmap_EN.pdf,2026-11-19
