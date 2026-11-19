@@ -31,6 +31,6 @@
 
 ## 延伸住宿攻略
 
-- [首爾站住宿](https://todolist-korea.com/seoul-station-hotels/)
-- [弘大住宿](https://todolist-korea.com/hongdae-hotels/)
-- [明洞住宿](https://todolist-korea.com/myeongdong-hotels/)
+- [首爾站住宿推薦](https://todolist-korea.com/seoul-station-hotels/)
+- [弘大住宿推薦](https://todolist-korea.com/hongdae-hotels/)
+- [明洞住宿推薦](https://todolist-korea.com/myeongdong-hotels/)

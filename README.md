@@ -25,8 +25,8 @@
 ## 住宿與相關交通攻略
 
 - [首爾站周邊住宿區域](https://todolist-korea.com/seoul-station-hotels/)
-- [仁川機場周邊住宿與接駁](https://todolist-korea.com/incheon-airport-hotels/)
-- [仁川機場到弘大的其他走法](https://todolist-korea.com/incheon-airport-to-hongdae/)
+- [仁川機場住宿與接駁](https://todolist-korea.com/incheon-airport-hotels/)
+- [仁川機場到弘大交通](https://todolist-korea.com/incheon-airport-to-hongdae/)
 
 ## 資料來源
 
